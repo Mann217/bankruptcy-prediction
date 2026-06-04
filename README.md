@@ -31,10 +31,6 @@ Built an ensemble classifier to identify insolvency risk from 95 financial ratio
 | Precision | 90.2% |
 
 
-## Tech Stack
-
-`Python` `scikit-learn` `XGBoost` `imbalanced-learn` `scikit-optimize` `pandas` `seaborn`
-
 ## Files
 
 ```
