@@ -30,7 +30,6 @@ Built an ensemble classifier to identify insolvency risk from 95 financial ratio
 | Recall | 97.3% |
 | Precision | 90.2% |
 
-Flagged 1,911/1,964 bankruptcy cases — optimized for recall to minimize missed insolvency signals.
 
 ## Tech Stack
 
@@ -39,7 +38,6 @@ Flagged 1,911/1,964 bankruptcy cases — optimized for recall to minimize missed
 ## Files
 
 ```
-BankruptcyPredictionNotebook.ipynb  — full pipeline
+BankruptcyPrediction.ipynb  — full pipeline
 Bankruptcy Prediction Report.docx  — methodology report
-Bankruptcy Prediction PPT.pdf       — presentation
 ```
